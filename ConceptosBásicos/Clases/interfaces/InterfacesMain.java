@@ -1,6 +1,6 @@
-package Clases.interfaces;
+package ConceptosBásicos.Clases.interfaces;
 
-import Clases.Coche;
+import ConceptosBásicos.Clases.Coche;
 
 public class InterfacesMain {
     public static void main(String[] args) {

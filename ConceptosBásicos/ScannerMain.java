@@ -1,3 +1,4 @@
+package ConceptosBásicos;
 import java.util.Scanner;
 
 public class ScannerMain {

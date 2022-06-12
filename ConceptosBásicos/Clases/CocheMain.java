@@ -1,4 +1,4 @@
-package Clases;
+package ConceptosBásicos.Clases;
 public class CocheMain {
     public static void main(String[] args) {
 

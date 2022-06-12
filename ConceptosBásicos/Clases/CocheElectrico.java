@@ -1,4 +1,4 @@
-package Clases;
+package ConceptosBásicos.Clases;
 
 public class CocheElectrico extends Coche {
     String motorElectrico;

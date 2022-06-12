@@ -1,4 +1,4 @@
-package Clases;
+package ConceptosBásicos.Clases;
 
 public class PolimorfismoMain {
     // Permite crear objetos de clases hijas a partir de clases superiores

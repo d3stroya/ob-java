@@ -1,6 +1,6 @@
-package Clases.interfaces;
+package ConceptosBásicos.Clases.interfaces;
 
-import Clases.Coche;
+import ConceptosBásicos.Clases.Coche;
 
 public interface CocheService {
     // Declaramos métodos que luego implementará una clase. 

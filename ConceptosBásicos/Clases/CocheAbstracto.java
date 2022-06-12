@@ -1,4 +1,4 @@
-package Clases;
+package ConceptosBásicos.Clases;
 
 public abstract class CocheAbstracto {
     // atributos
