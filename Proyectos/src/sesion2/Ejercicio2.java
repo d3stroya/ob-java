@@ -4,13 +4,11 @@ public class Ejercicio2 {
     public static void main(String[] args) {
         
         // Función que recibe un precio y devuelve el precio final con IVA
-        double precioSinIva = 149.65;
-        double precioFinal = calcularPrecioFinal(precioSinIva);
-        System.out.println("El precio sin IVA es " + precioSinIva);
+        double precioFinal = calcularPrecioFinal(2.89, 4);
         System.out.println("El precio con IVA es " + precioFinal);
     }
 
-    static double calcularPrecioFinal(double precio) {
-        return precio + (precio * 21/100);
+    static double calcularPrecioFinal(double precio, int iva) {
+        return precio + (precio * iva/100);
     }
 }
