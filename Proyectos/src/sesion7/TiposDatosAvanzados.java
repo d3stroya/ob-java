@@ -113,7 +113,7 @@ public class TiposDatosAvanzados {
 
         /*
         // 3. VECTORES: se ajustan automáticamente al número y tipo de datos que tengamos
-        // Vector --- Tipo de  --- nombre --- = new Vector()
+        // Vector --- <Tipo de dato>  --- nombre --- = new Vector()
         Vector<Integer> vector = new Vector();
         vector.add(1);  // Añade elementos al vector
         vector.add(2);
